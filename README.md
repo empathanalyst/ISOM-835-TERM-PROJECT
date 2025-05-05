@@ -56,14 +56,7 @@ Final Report  [Download Final Report (PDF)](final_report.pdf)
 
 
  Visualizations  
-
-📊 Diabetes Class Distribution  
-![Diabetes Distribution](visualizations/diabetes_distribution.png)
-
-📊 Feature Importance (XGBoost)  
-![Feature Importance](visualizations/feature_importance.png)
-
-*(More plots available in the `visualizations/` folder)*
+https://github.com/empathanalyst/ISOM-835-TERM-PROJECT/tree/main/visualizations
 
 
 

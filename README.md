@@ -52,7 +52,9 @@ Google Colab Notebook
 - [Full Notebook: Data Cleaning, Modeling, Evaluation](https://colab.research.google.com/drive/1ABaf4IeLBt2kVc8Cq-Ac6GaByZCdyFPf?usp=sharing)
 
 
-Final Report  [[Download Final Report (PDF)](final_report.pdf) ](https://github.com/empathanalyst/ISOM-835-TERM-PROJECT/blob/main/README.md#:~:text=finalreport.-,pdf,-Breadcrumbs)
+Final Report :
+https://github.com/empathanalyst/ISOM-835-TERM-PROJECT/blob/main/Finalreport.pdf
+
 
 
  Visualizations  

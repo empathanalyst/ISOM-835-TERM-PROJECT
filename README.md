@@ -62,8 +62,9 @@ https://github.com/empathanalyst/ISOM-835-TERM-PROJECT/tree/main/visualizations
 
 
 
-###  .gitignore  
-The repo includes a `.gitignore` to exclude checkpoints, pycache, and unnecessary system files.
+ .gitignore  
+ https://github.com/empathanalyst/ISOM-835-TERM-PROJECT/blob/main/.gitignore
+
 
 
 
